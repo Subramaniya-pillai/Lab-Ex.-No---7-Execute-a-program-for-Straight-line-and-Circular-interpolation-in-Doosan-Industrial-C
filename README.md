@@ -1,13 +1,14 @@
 # Lab-Ex.-No---7-Execute-a-program-for-Straight-line-and-Circular-interpolation-in-Doosan-Industrial-cobot
-## Aim : To Execute a program for Straight-line and Circular interpolation in Doosan Industrial Cobot using DRL studio.
+# Aim : 
+To Execute a program for Straight-line and Circular interpolation in Doosan Industrial Cobot using DRL studio.
 
-## Components Required:
+#  Components Required:
 
 *Doosan Industrial Collaborative Robot
 
 *DRL (Doosan Robotics Language) Studio Software
 
-### Theory 
+# Theory: 
 INTERPOLATION
 
 Interpolation, which is necessary for any type of programming, consists of generating data points between given coordinate axis positions. Within the Machine Control Unit (MCU), a device called an interpolator causes the drives to move simultaneously from the start to the end of the command. The interpolator is either an electronic hardware device for a NC system, or a software program for a CNC system. An interpolator provides two functions:
@@ -28,28 +29,36 @@ Helical interpolation, used for threads and helical forms, is available on many 
 
 Parabolic and cubic interpolation are used by industries that manufacture parts having complex shape such as aerospace parts, and...
 
-## Procedure:
+# Procedure:
 
 Manipulate the end effector as per the given configuration. Movement Should Initiate in P1 and progress till the end point. Travel path should be in sequence as stated below.
 
 Linear Interpolation
 
-
-
-
-
-
-
-
 Circular Interpolation
 
-### output
+# Output:
+#### developed by : Subramaniya Pillai B
+#### reg no : 212221230109
 
+### Linear interpolation:
+![1](ot1.jpeg)
 
+![2](ot2.jpeg)
 
+![3](ot3.jpeg)
 
-### Results 
+![4](ot4.jpeg)
 
+### Circular interpolation:
+![1](ot7.jpeg)
 
+![1](ot5.jpeg)
+
+![1](ot6.jpeg)
+
+# Result: 
+
+Thus,program for Straight-line and Circular interpolation in Doosan Industrial Cobot using DRL studio is executed.
 
  
